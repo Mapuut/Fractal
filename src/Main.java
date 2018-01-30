@@ -11,8 +11,8 @@ import javax.swing.JFrame;
 
 public class Main {
 	
-    public static final int width = 1300;
-    public static final int height = 1300;
+    public static final int width = 500;
+    public static final int height = 500;
     
     private static Canvas canvas = new Canvas();
     private static JFrame frame = new JFrame();
